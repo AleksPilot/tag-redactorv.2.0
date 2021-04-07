@@ -1,4 +1,4 @@
--- This is beta-version of Haskell Mp3-TagRedactor by Aleksandr Tarasov --
+-- This is v2.0 of Haskell Mp3-TagRedactor by Aleksandr Tarasov --
 
 How to use this program:
 
